@@ -1,2 +1,2 @@
 # Simon-Game
-Project Completed throughout the duration of the following course: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+Project completed throughout the duration of the following course: https://www.udemy.com/course/the-complete-web-development-bootcamp/
